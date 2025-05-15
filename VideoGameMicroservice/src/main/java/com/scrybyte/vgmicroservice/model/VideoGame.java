@@ -1,4 +1,4 @@
-package com.cognixia.jump.model;
+package com.scrybtye.vgmicroservice.model;
 
 import java.io.Serializable;
 

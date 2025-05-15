@@ -1,4 +1,4 @@
-package com.cognixia.jump.controller;
+package com.scrybtye.vgmicroservice.controller;
 import java.util.List;
 import java.util.Optional;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cognixia.jump.model.VideoGame;
-import com.cognixia.jump.repository.VideoGameRepository;
+import com.scrybtye.vgmicroservice.model.VideoGame;
+import com.scrybtye.vgmicroservice.repository.VideoGameRepository;
 
 @RequestMapping("/api")
 @RestController
